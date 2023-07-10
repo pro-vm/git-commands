@@ -26,5 +26,11 @@
    #how to move to particular branch
     git checkout newbranch;
     git checkout -b newbranch2 (this will create new branch and move you to that branch)
+    git add -am(add and commit)
+#how to merge branch
+    git checkout master
+    git merge newbranch2
+#how to delete branch once work is over
+    git branch -d newbranch2
 
   
