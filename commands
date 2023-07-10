@@ -15,5 +15,10 @@
   git commit -m "this is the commit message"
 
 #Branching ,tagging and merging
+1) git tag 
+2) git branch
+3) git stash
+4) git checkout
+5) git merge
 
   
