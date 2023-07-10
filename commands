@@ -3,4 +3,5 @@
   2)Git log -2   Shows latest two commits.
   3) Git log -p  it shows  commits along with differences in commits
   4) Git log --oneline  returns all commits in one line so user can search better
-  5) Git log --stats  all information instead of showing all difference 
+  5) Git log --stat  all information instead of showing all difference 
+6) Git show {SHA id}  it will return all info along with changes on behlaf of SHA id  
