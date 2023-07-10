@@ -44,4 +44,6 @@ git reset --soft(this will not discard the current available changes in code  an
 git reset --mixed
 git reset --hard
 
+git commit --amend(it will amend the most recent commit)
+
   
