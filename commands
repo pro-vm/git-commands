@@ -21,4 +21,6 @@
 4) git checkout
 5) git merge
 
+-git branch (will return all the branches in current repo)
+
   
