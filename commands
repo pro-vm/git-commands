@@ -37,4 +37,7 @@
 #how to remove a tag
      git tag -d betv1.0
 
+#how to undo commit
+git revert [SHA id]
+
   
