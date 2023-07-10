@@ -5,3 +5,5 @@
   4) Git log --oneline  returns all commits in one line so user can search better
   5) Git log --stat  all information instead of showing all difference 
   6) Git show {SHA id}  it will return all info along with changes on behlaf of SHA id  
+#How to discard the change to latest working commit
+ git restore index.html
