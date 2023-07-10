@@ -1,0 +1,3 @@
+#Review a repository history
+  1)Git log   - IT shows most latest commit on the top and other commits will follow in bottom
+  2)Git log -2   Shows latest two commits.
