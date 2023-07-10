@@ -12,5 +12,8 @@
 #How to add files and commit
   git status (this will show  all untracked or tracked files that not commited)
   git add [file name]   or git add . (this will add all untracked files)
+  git commit -m "this is the commit message"
+
+#Branching ,tagging and merging
 
   
