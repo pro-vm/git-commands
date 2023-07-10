@@ -40,4 +40,8 @@
 #how to undo commit
 git revert [SHA id]
 
+git reset --soft(this will not discard the current available changes in code  and head will move to given SHA)
+git reset --mixed
+git reset --hard
+
   
