@@ -7,3 +7,6 @@
   6) Git show {SHA id}  it will return all info along with changes on behlaf of SHA id  
 #How to discard the change to latest working commit
  git restore index.html
+
+#How to add files and commit
+  git add [file name]   or git add . (this will add all untracked files)
