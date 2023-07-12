@@ -46,4 +46,7 @@ git reset --hard
 
 git commit --amend(it will amend the most recent commit)
 
+#how to add remote repository
+git remote add origin [link of repo]
+
   
