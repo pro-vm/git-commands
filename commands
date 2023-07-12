@@ -8,6 +8,9 @@ git config --global user.email "email@address.com"
 #how to see existing configuration
 git config --list
 
+#how to push commits to github
+git  push -u origin main(master branch)
+
 
 #Review a repository history
   1) Git log    It shows most latest commit on the top and other commits will follow in bottom
