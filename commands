@@ -49,4 +49,11 @@ git commit --amend(it will amend the most recent commit)
 #how to add remote repository
 git remote add origin [link of repo]
 
+#how to configure and add email and user in git
+git config --global user.name "username"
+git config --global user.email "email@address.com"
+
+#how to see existing configuration
+git config --list
+
   
