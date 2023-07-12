@@ -1,3 +1,14 @@
+#how to add remote repository
+git remote add origin [link of repo]
+
+#how to configure and add email and user in git
+git config --global user.name "username"
+git config --global user.email "email@address.com"
+
+#how to see existing configuration
+git config --list
+
+
 #Review a repository history
   1) Git log    It shows most latest commit on the top and other commits will follow in bottom
   2) Git log -2   Shows latest two commits.
@@ -46,14 +57,6 @@ git reset --hard
 
 git commit --amend(it will amend the most recent commit)
 
-#how to add remote repository
-git remote add origin [link of repo]
 
-#how to configure and add email and user in git
-git config --global user.name "username"
-git config --global user.email "email@address.com"
-
-#how to see existing configuration
-git config --list
 
   
